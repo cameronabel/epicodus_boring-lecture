@@ -1,20 +1,14 @@
-h2.intro {
+h2 {
   font-weight: bold;
-  width: 60%;
-  margin: 0 auto;
 }
 
-p.intro {
+.intro {
   width: 60%;
   margin: 0 auto;
-}
-
-img.intro {
   display: block;
-  margin: 0 auto;
-  width: 400px;
 }
 
-div.container {
+
+.container {
   text-align: center;
 }
